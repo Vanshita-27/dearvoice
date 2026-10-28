@@ -3,7 +3,7 @@
 A responsive React + Vite storefront for DearVoice with a premium blush-pink and cream visual style, a dark-mode toggle, product search/filtering, product detail modals with image galleries, and direct Meesho checkout links.
 ## 🌐 Live Website
 
-🔗 **Live Demo:** `https://dearvoice.netlify.app/`
+🔗 **Live Demo:** https://dearvoice.netlify.app/
 
 ## Included
 - Four live Meesho listings with seller-provided displayed prices, original prices and discounts
