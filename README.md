@@ -1,6 +1,11 @@
 # DearVoice — A Hidden Moment
 
 A responsive React + Vite storefront for DearVoice with a premium blush-pink and cream visual style, a dark-mode toggle, product search/filtering, product detail modals with image galleries, and direct Meesho checkout links.
+## 🌐 Live Website
+
+🔗 **Live Demo:** `YOUR_NEW_NETLIFY_LINK_HERE`
+
+> Replace this placeholder with the deployed URL of your new DearVoice website once Netlify deployment is complete.
 
 ## Included
 - Four live Meesho listings with seller-provided displayed prices, original prices and discounts
@@ -15,6 +20,23 @@ A responsive React + Vite storefront for DearVoice with a premium blush-pink and
 - Contact email: dearvoice27@gmail.com
 - Customer feedback invitation (no fabricated testimonials)
 - SEO title and description
+
+📂 Project Structure
+
+dearvoice-website/
+├── public/
+│   ├── images/        # Product and gallery images
+│   └── videos/        # Demo video
+├── src/
+│   ├── App.jsx        # Main application and UI
+│   ├── main.jsx       # React entry point
+│   └── ...            # Other source and style files
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
+The exact source-file structure may vary slightly by project version.
 
 ## Run locally
 1. Install Node.js (current LTS recommended).
